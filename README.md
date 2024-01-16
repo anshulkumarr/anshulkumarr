@@ -48,7 +48,8 @@ Experienced Developer with expertise in 5G Core components, Software-Defined Net
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-[![Anshul’s github stats](https://github-readme-stats.vercel.app/api?username=anshulkumarr&theme=dark)](https://github.com/anshulkumarr)
+[![Anshul’s github stats](https://github-readme-stats.vercel.app/api?username=anshulkumarr&theme=cobalt&show_icons=true)](https://github.com/anshulkumarr)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkumarr&layout=compact&theme=dark)](https://github.com/anshulkumarr)
 
